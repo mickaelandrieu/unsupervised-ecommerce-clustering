@@ -1,0 +1,13 @@
+# These files are way too heavy for GitHub
+input/
+models/
+!input/.gitkeep
+!models/.gitkeep
+
+# Others
+.ipynb_checkpoints/
+src/__pycache__/
+dev
+
+docs/*.csv
+docs/*.json
