@@ -26,7 +26,7 @@ While most of their customers do only **1 unique order** and the RFM model may b
 * A notebook with exploratory data analysis ;
 * A notebook of tests of differents modeling approaches ;
 * A simulation notebook to determine the necessary frequency of updating the segmentation model ;
-* 
+* A presentation support to present your work ;
 
 ## LICENSE
 
