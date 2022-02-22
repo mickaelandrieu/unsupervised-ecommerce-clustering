@@ -25,4 +25,4 @@ jobs:
         pip install -r requirements.txt
  
     - name: echo "Run Black formatting ✨"
-      run: black notebooks
+      run: black notebooks --check
