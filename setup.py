@@ -16,6 +16,7 @@ setup(
         'scipy==1.7.1',
         'streamlit==1.1.0',
         'joblib==1.1.0',
+        'nbformat==5.1.3',
     ],
     setup_requires=['black'], 
 )
