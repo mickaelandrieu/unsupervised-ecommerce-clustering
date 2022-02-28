@@ -19,12 +19,12 @@ Also, we need to provide an analysis about the stability of the segmentation, to
 While most of their customers do only **1 unique order** and the RFM model may be not that efficient, Olist suggest we should categorize customers based on 2 criteria :
 
 * in terms of **order details** ;
-* in termes of **satisfaction** ;
+* in terms of **satisfaction** ;
 
 ## Expected delivery
 
 * A notebook with exploratory data analysis ;
-* A notebook of tests of differents modeling approaches ;
+* A notebook of tests of different modeling approaches ;
 * A simulation notebook to determine the necessary frequency of updating the segmentation model ;
 * A presentation support to present your work ;
 
