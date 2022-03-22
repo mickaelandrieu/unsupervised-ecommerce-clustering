@@ -14,6 +14,8 @@ It then proceeds to perform a decomposition of the data objects based on this hi
 
 These are Divisive Approach and the Agglomerative Approach respectively.
 
+**Ex: HAC**
+
 **Ex: Cluster Dendrogram**
 
 ## 2 - Partitioning Clustering
@@ -27,7 +29,7 @@ The major setback here is that we should either intuitively or scientifically (E
 
 Despite the flaws, Centroid based clustering has proven it’s worth over Hierarchical clustering when working with large datasets. Also, owing to its simplicity in implementation and also interpretation, these algorithms have wide application areas viz., market segmentation, customer segmentation, text topic retrieval, image segmentation etc.
 
-**Ex: KMeans**
+**Ex: KMeans, K-Prototypes**
 
 ## 3 - Density-Based Clustering
 
